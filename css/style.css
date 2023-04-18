@@ -110,6 +110,12 @@ scale: none;
     height: 45px;
     left: 37%;
 }
+.image7 img {
+    position: fixed;
+    top: 370px;
+    height: 35px;
+    left: 37%;
+}
 
 .about h6 {
     font-size: 12px;
